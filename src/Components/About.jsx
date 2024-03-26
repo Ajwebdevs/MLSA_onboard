@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/crescent-8650199_1280.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello there, I'm Arjun S. Nair, a passionate tech enthusiast driven by a relentless pursuit of knowledge and innovation. As an avid learner, I constantly seek opportunities to expand my horizons in the ever-evolving world of technology";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Fullstack development",
+  "Ui/Ux designer",
+  "Microsoft Certified: Azure AI Fundamentals",
+  "c/c++ spelizilation",
+  "Flutter dev",
+  "Javascript geek",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "With a fervent love for coding and a flair for video editing, I find myself in my element when immersed in creative and technical endeavors. My expertise spans across a wide range of programming languages, including HTML, CSS, and JavaScript, as well as PHP, which I have honed to proficiency through hands-on experience and dedication";
 
 const About = () => {
   return (

@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/fountain-pen-1851096_1280.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "image of a diary with a fountain pen";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Brest cancer dectection model",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Develop a breast cancer detection model using Logistic Regression and the sklearn dataset.",
+    url: "https://github.com/Ajwebdevs/vigilant-happiness/blob/de41e58d396cf83c79efea6c87eee0c2da89f52a/Brest_cancer_dectection_using_Auto_ML.ipynb",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Period Tracker",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed Period Tracker model using HTML, CSS, and JavaScript",
+    url: "https://pdaytracker.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Personal Portfolio website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My personal portfolio using built in html css vannila js",
+    url: "https://ajweb.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Rock or Mine dectection for submarines",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a model for Rock or Mine detection to aid submarines in identifying underwater objects.",
+    url: "https://github.com/Ajwebdevs/vigilant-happiness/blob/4b5ec47752022a544fc29050ecf4404a2c4adf16/sumbmarine_sonar_rock_project.ipynb",
   },
 ];
 
