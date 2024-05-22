@@ -29,6 +29,7 @@ const imageAltText = "image of a diary with a fountain pen";
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
+
 const projectList = [
   {
     title: "Brest cancer dectection model",
@@ -55,6 +56,8 @@ const projectList = [
     url: "https://github.com/Ajwebdevs/vigilant-happiness/blob/4b5ec47752022a544fc29050ecf4404a2c4adf16/sumbmarine_sonar_rock_project.ipynb",
   },
 ];
+
+
 
 const Portfolio = () => {
   return (
